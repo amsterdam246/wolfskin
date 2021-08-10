@@ -1,1 +1,0 @@
-Hi am amsterdam 256 i like studying cpp and programming hardware plus python, my goal right now is to build a jukebox based on arduino using a vs1053 mp3 module, i am currently having trouble with expanding ont the storage options
